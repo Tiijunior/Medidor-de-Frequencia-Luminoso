@@ -18,12 +18,7 @@ A fs = 48 kHz e BL = 1024, isto dá um df de 48000 Hz / 1024 = 46,88 Hz.
 
 Na prática, a frequência de amostragem fs é geralmente uma variável dada pelo sistema. No entanto, ao selecionar o comprimento de bloco BL, a duração da medição e a resolução de frequência podem ser definidas. Aplica-se o seguinte:
 Um pequeno comprimento de bloco resulta em rápidas repetições de medição com uma resolução de frequência grosseira.
-Um grande comprimento de bloco resulta em repetições de medição mais lentas com resolução de frequência fina
-
-Aqui podemos observar como essa onda senoidal se propaga.
-
-
-Formato de onda obtida por cada equipamento 
+Um grande comprimento de bloco resulta em repetições de medição mais lentas com resolução de frequência fina.
 
 
 
